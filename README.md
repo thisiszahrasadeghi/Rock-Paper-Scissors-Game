@@ -8,7 +8,8 @@ In this repository , I coded the game , so you can play it by yourself even when
 
 <div align="center">
   <a rel="nofollow" href="https://thisiszahrasadeghi.dev/git/">
-    <img width="50%" src="./levitate.gif">
+    <img width="50%" src="![Rock](https://github.com/thisiszahrasadeghi/Rock-Paper-Scissors-Game/assets/170200995/495d486b-b3c6-4717-ae73-0f0b135e1495)
+.gif">
   </a>
 </div>
 
