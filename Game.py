@@ -1,5 +1,5 @@
 import random
-
+from replit import clear
 
 rock = r'''                               
     _______
@@ -75,3 +75,4 @@ while continue_game :
     temp = str(input("Do you want to try again? Yes or No : ")).lower()
     if temp == "no" :
         continue_game = False
+    clear()
