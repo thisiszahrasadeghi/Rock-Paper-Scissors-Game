@@ -6,9 +6,10 @@ Rock, paper, scissors is a fun and easy hand game that anyone can learn and enjo
 In this repository , I coded the game , so you can play it by yourself even when there is nobody around to play with .
 
 
+
 <div align="center">
   <a rel="nofollow" href="https://thisiszahrasadeghi.github.io/git/">
-    <img width="50%" src="https://github.com/thisiszahrasadeghi/Rock-Paper-Scissors-Game/assets/170200995/dd1998c8-7c49-4eec-8b1c-c49c288de1ab")
+    <img width="75%" src="https://github.com/thisiszahrasadeghi/Rock-Paper-Scissors-Game/assets/170200995/dd1998c8-7c49-4eec-8b1c-c49c288de1ab")
 
   </a>
 </div>
